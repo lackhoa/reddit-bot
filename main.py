@@ -1,10 +1,12 @@
-import bot_logic as bl
 from time import sleep
+from bot_logic import *
+from helper import *
 
 #Create a Reddit instance
-r = bl.bot_login()
+r = bot_login()
 
-s = r.submission(id = '8hl6k5')
+s = r.submission(id = '8isv7u')
+print('Loading more comments...')
 # Load more comments
 while True:
     try:
@@ -13,6 +15,11 @@ while True:
     except:
         print('Handling replace_more exception')
         sleep(1)
+print('Done!')
 
-f = s.comments
-conv = bl.find_conv_in_forest(f)
+print('Looking for conversations...')
+convs = find_conv_in_forest(s.comments)
+print('Done!')
+
+with open('convs.txt', 'w+') as f:
+    f.write(str_convs(convs))

@@ -17,25 +17,36 @@ def bot_login():
 #Get ONE response from a Redditor to a comment:
 def get_response_from(comment: praw.models.Comment, redditor: praw.models.Redditor) -> praw.models.Comment:
     for reply in comment.replies:
-        if reply.author.name == redditor.name:
+        try:
+            rep_name = reply.author.name
+        except AttributeError:
+            print('Comment has no author: {0}'.format(reply.id))
+        compare_name = redditor.name
+        if rep_name == compare_name:
             return reply
     return None
 
-#Return a list of conversations under a comment
-#cmt: Comment
-def find_conv(cmt: praw.models.Comment) -> List[Conversation]:
+def find_conv(root: praw.models.Comment) -> List[Conversation]:
+    '''
+    Return a list of conversations under a comment
+    :param root: The root comment to find conversation
+    '''
     #The return value
     conversation_list = []
     #The level of the conversation starter
     level_index = 0
-
-    while level_index < get_comment_depth(cmt):
+    depth = get_depth(root)
+    while level_index < depth - 1:
         #Get all comments in the level
-        level = get_level(cmt, level_index)
+        level = get_level(root, level_index)
         for even_starter in level:
+            if even_starter.author is None: # Deleted comments cannot be conversation starters
+                continue
             for odd_starter in even_starter.replies:
+                if odd_starter.author is None: # Deleted comments cannot be odd starters
+                    continue
                 #The head check and the length check
-                if (even_starter.is_root or even_starter.parent().author.name != odd_starter.author.name) and get_response_from(odd_starter, even_starter.author) is not None:
+                if (even_starter.is_root or even_starter.parent().author is None or even_starter.parent().author.name != odd_starter.author.name) and get_response_from(odd_starter, even_starter.author) is not None:
                     #Now this is a conversation:
                     cmt = get_response_from(odd_starter, even_starter.author)
                     conversation = [even_starter, odd_starter, cmt]
@@ -45,7 +56,7 @@ def find_conv(cmt: praw.models.Comment) -> List[Conversation]:
                         conversation.append(cmt)
                     conversation_list.append(conversation)
         level_index += 1
-    
+
     return conversation_list
 
 def find_conv_in_forest(forest: praw.models.comment_forest.CommentForest) -> List[Conversation]:

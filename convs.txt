@@ -1,0 +1,150 @@
+Found 16 conversations
+Conversation between CyleFluhrer and acephreak (length 3):
+<#0 (id: dyuc55i)> CyleFluhrer said: Just imagine readjusting your eyes to those new beams! Hopefully you upload an after photo! 
+|<#1 (id: dyuff3v)> acephreak said: I didn't even really realize they were that bad until I saw the new ones, I just got used to them. What actually prompted me was that I was tired of hitting potholes and thought that maybe new headlights would help me see a bit better. It's a total difference. 
+||<#2 (id: dyufsbf)> CyleFluhrer said: You can only use so much headlight cleaner before realizing "Holy shit my car is blind as a bat" haha
+
+----------------------------------------------------------------------------------------------------
+Conversation between CyleFluhrer and EricStoltz-MaskMorty (length 3):
+<#0 (id: dyuc55i)> CyleFluhrer said: Just imagine readjusting your eyes to those new beams! Hopefully you upload an after photo! 
+|<#1 (id: dyucyjd)> EricStoltz-MaskMorty said: After he blinds himself with his new headlights you mean?
+||<#2 (id: dyud07g)> CyleFluhrer said: Exactly that
+
+----------------------------------------------------------------------------------------------------
+Conversation between CyleFluhrer and acephreak (length 3):
+<#0 (id: dyuc55i)> CyleFluhrer said: Just imagine readjusting your eyes to those new beams! Hopefully you upload an after photo! 
+|<#1 (id: dyuv1pn)> acephreak said: [Here's](http://i.imgur.com/ywgVDTx.jpg) the installed headlight 
+||<#2 (id: dyuvayx)> CyleFluhrer said: That is truly a sight to behold! Time to black out the car, maybe? 
+
+----------------------------------------------------------------------------------------------------
+Conversation between acephreak and Choco_Churro_Charlie (length 3):
+<#0 (id: dyuff3v)> acephreak said: I didn't even really realize they were that bad until I saw the new ones, I just got used to them. What actually prompted me was that I was tired of hitting potholes and thought that maybe new headlights would help me see a bit better. It's a total difference. 
+|<#1 (id: dyull84)> Choco_Churro_Charlie said: Dude, how'd you pass inspection?!
+||<#2 (id: dyux3p4)> acephreak said: It's in Puerto Rico. They have a very long list of things they check, and a sign with them on the place I go to. They verify that the lights work, but I don't know if they take into consideration if they're blurred or not. I mean, they did turn on, I guess the guy who inspected the car thought that was good enough, plus I always go to the same place near where I live. 
+
+----------------------------------------------------------------------------------------------------
+Conversation between Hutch_45 and RearEchelon (length 3):
+<#0 (id: dyuiudi)> Hutch_45 said: Throw in some HID (High intensity discharge) bulbs like xenon gas if they still are not bright enough. Unless of course those are led, nothing beats led.
+|<#1 (id: dyukdlv)> RearEchelon said: Properly installing HID lights in a car not meant for them is not as simple as just a bulb swap. Please don't do this. 
+||<#2 (id: dyul4fe)> Hutch_45 said: All you have to do is buy some ballasts for 15 dollars. 
+
+----------------------------------------------------------------------------------------------------
+Conversation between zkinny and Idiot_Savant_Tinker (length 4):
+<#0 (id: dyuohy6)> zkinny said: You don't have required mechanical controls for safety in the US, do you? 
+|<#1 (id: dyup714)> Idiot_Savant_Tinker said: It depends on the state. I used to live in VA, and there's no way that headlight would pass there. (At least I think not, when I moved out of Virginia, composite headlights were fairly new and not all cars had them) I remember VA inspections checking emissions equipment, brakes, front end parts, lights, wipers, and glass. I'm sure some other states do as well.
+
+Lower-population states typically don't have strict vehicle inspections, and some states (like Oklahoma, population 3.9 million) don't have inspections at all.
+||<#2 (id: dyupco2)> zkinny said: That just a little short of the population in my whole country, yet I'd bet we have a whole lot less accidents. 
+|||<#3 (id: dyupl6h)> Idiot_Savant_Tinker said: *Maybe*. 
+
+Those nearly four million people are spread out over almost 70,000 square miles. There are two "big" cities, one is almost 600,000 population, the next smallest is about 393,000. Those two cities are 120 miles from one another. 
+
+There's miles of fuck-all in the rest of the state. I could get in my truck right now, head out onto the nearest highway, and open the throttle until it started to bounce off the speed cutout, and the thing I'd most likely run into would be a deer, not another person. 
+
+I looked it up for fun, and it seems like Oklahoma has about 1.4 vehicle deaths per [100,000,000 miles traveled.](http://www.iihs.org/iihs/topics/t/general-statistics/fatalityfacts/state-by-state-overview) That's higher than some, and lower than some. Does it correlate into vehicle inspections? Maybe. But as we're always told, correlation isn't causation.
+
+It's more likely that the country you live in has stricter licensing standards, and THAT makes a big difference. 
+
+----------------------------------------------------------------------------------------------------
+Conversation between PancakesAreGone and throwaway2588522 (length 3):
+<#0 (id: dyujlpf)> PancakesAreGone said: He definitely should not do that. Those are basic reflectors my dude, HIDs aren't supposed to (And depending where you are, technically not street legal) be thrown in cars that aren't made to handle them. Jamming HIDs in vehicles without the system to actually use them properly isn't just stupid, it's incredibly dangerous to everyone not you.
+|<#1 (id: dyuobe9)> throwaway2588522 said: Something like this is fine right? 
+
+https://www.amazon.com/GE-Lighting-9006NHP-BP2-Replacement/dp/B002UX7INM
+
+I put those in when one of my lights died. It's much brighter than the old one, but nobody has flashed their brights at me, so I am assuming they aren't blinding anyone. 
+||<#2 (id: dyuovek)> PancakesAreGone said: Honestly, the best thing to do is to go by what your manufacturer says. If they recommend X, stick with X. Like, sure you can find some Halogen Xenon gas lights (Which makes no sense, but advertising I guess), but if it has Xenon in it, it's probably a HID.
+
+For any HIDs or LEDs to be street legal, your car needs to be able to calibrate for them, which is still on the more expensive cars now. Basically, let me put it this way, if you have to ask "Should I be using HIDs?", the answer is probably no. So if you were using halogen bulbs, you're going to want to stay on the halogen bulbs.
+
+----------------------------------------------------------------------------------------------------
+Conversation between GoldenEyedCommander and Frothingdogscock (length 3):
+<#0 (id: dyusrbq)> GoldenEyedCommander said: I did that and was impressed, but it didn't last long for me. 
+|<#1 (id: dyutbt1)> Frothingdogscock said: You need to protect from UV, a coat of clear lacquer does enough.
+||<#2 (id: dyutlns)> GoldenEyedCommander said: Good to know. 
+
+----------------------------------------------------------------------------------------------------
+Conversation between Frothingdogscock and FuzzelFox (length 3):
+<#0 (id: dyutbt1)> Frothingdogscock said: You need to protect from UV, a coat of clear lacquer does enough.
+|<#1 (id: dyuvcny)> FuzzelFox said: Most of the headlight cleaning kits have a clearcoat to put on afterwards as well.
+||<#2 (id: dyuvury)> Frothingdogscock said: Ah good, I've never used a kit. Just wet and dry sandpaper and cutting compound for me, I'm a skinflint ;)
+
+----------------------------------------------------------------------------------------------------
+Conversation between Professional_nobody and acephreak (length 3):
+<#0 (id: dyuf0jo)> Professional_nobody said: Ahhhh, the mid nineties gran marquis. What a marvel of engineering. FoMoCo make the worst headlight plastic known to man 
+|<#1 (id: dyuf4bz)> acephreak said: That's the car! 2000 Grand Marquis and yes, they made basically the same model for several years.
+||<#2 (id: dyufgt7)> Professional_nobody said: They made that same chassis ('Panther') basically from time I was born or maybe a little earlier (mid 80s) till they killed the line.  RIP Crown Victoria, Gran Marquis and Lincoln Towncar. 
+
+----------------------------------------------------------------------------------------------------
+Conversation between Dootthedooter and Corr521 (length 3):
+<#0 (id: dyujgcv)> Dootthedooter said: This is why you refill your blinker fluid. It keeps the lense nice and  clear and keeps the heat from warping the lense. Just replace after winter or your light will appear  a cooler tint than before hand.
+|<#1 (id: dyuk5ua)> Corr521 said: I usually do mine just before winter and I've never had any issues
+||<#2 (id: dyulaxa)> Dootthedooter said: might be the brand I use. I tend to cheap out and buy the $6.00 autozone jug.
+
+----------------------------------------------------------------------------------------------------
+Conversation between s_i_m_s and SimAlienAntFarm (length 3):
+<#0 (id: dyujp3j)> s_i_m_s said: Why aren't they made out of something that doesn't do this like glass?
+|<#1 (id: dyuk8n1)> SimAlienAntFarm said: I can’t give options on car parts but: 
+
+Glass is about a 7 on the mohs scale and the dirt and dust it encounters on the road is about the same on the scale. It will scratch just as easily but with the added problem of chipping/cracking/shattering on impact instead of flexing like plastic would. 
+
+I’m not a mechanic but I’m a jeweler and half my job is polishing scratches out while the other half is replacing stones that have been worn down about as much as that headlight. I also have experience with enamels and faux enamel that is basically an epoxy resin. The enamel (in essence powdered glass) is a bit more scratch resistant but much less tough.
+||<#2 (id: dyul7sl)> s_i_m_s said: It appears to me to be that the outer layer has yellowed more than it's been scratched over time.  
+I know the headlights are much lower on the car and thus exposed to more road debris but windshields are glass and don't look anything like that after a decade of use.  
+I'm certain it would be more susceptible to breaking from impact than plastic but I don't know how much of a difference that makes.
+
+----------------------------------------------------------------------------------------------------
+Conversation between gotnomemory and salajomo (length 3):
+<#0 (id: dyuqhag)> gotnomemory said: If that doesn't do it for you, sand it down and apply clear coat. All you'll need is soapy watah, watah, and isopropyl alcohol in spray bottles. Or not, I'm not a cop. Just makes things easier. Oh, and 180-1200 grit sandpaper, tape, painting tarps or trashbags (if you can't get the lenses or lights off your car. I didn't want to deal with mine, but my Jeep's come out easy as pie), and a can of clear coat spray paint. I used a Rust-Oleum type, but you can look into whatever brand you want. I went for a high heat one just to be safe with good longevity and even coat recommendations.
+
+
+Chris fix it on YouTube has a video to show you how, but the instructions are basically:
+
+•if you can't remove the lense, it's ok. Clean Soapy watah. Dry it. Go ahead and tape it all off, make sure you won't get any overspray anywhere, or sand down your paint!
+
+•start with 180-220 grit. Side to side horizontally. Wet on wet sanding during this whole project with just plain watah. Don't go ham, but don't just spend five seconds on it. You'll see the water dripping down is nasty AF. That's the old clear coat (cause of the haze) just coming right off. 
+
+
+•move to 300-600 grit. I use 600, just because it's what I bought. √°•°√ Keep doing the side to side, really getting along the edges especially and any little notches or bumples that your headlight might have. If you've got any ridges or deep grooves, I'd get the sanding soft blocks for the 180-400 grit to get in there well. 
+
+
+•By now, the headlight should look terrible. Literally, cloudy as all getup. But! You can actually dry the headlight off and spray it with the alcohol and see just how clear you've gotten it. Rub it dry and get out that 1000-1200 grit. Start working in small circles now, getting any of those grooves, ridges or bumples you focused on before. Start working into the horizontal strokes. Make sure at this point that there's no cracklings left from the base coat. You can always start with the rougher grit and work back up. Now it's a matter of just making sure it's all off and with plenty of grip for the new coat. 
+
+
+
+•The fun part! Go ahead and give it another go with the watah, then the alcohol. Rub it really well, making sure you got off all that nasty dust and grossness. Break out your clear coat and run it over once. I kept about 8-12 inches away for the first and second coats. Depending on the weather, you should wait 5-30 minutes between coats. It's getting into summer now, and it's hot down here, so I only had to wait a few minutes between coats. I did a total of three, and it looks stunning. 
+
+
+
+My 23 year old headlights are comparable to the new lenses I found for every other year but the one that fits mine. (#oldcarproblems). It took me about 15 minutes per light, because I'm anal retentive and I was hell bent on getting this done, but your mileage may vary. Don't rush yourself, though, because if you don't sand down enough, it will immediately start to recrack the same day. If this happens, just wait a few days and then sand, sand, sand again! Focus on those areas that cracked first, and then work your way out. 
+|<#1 (id: dyurbpf)> salajomo said: Do this it works Chrisfix has a great video on this.
+
+||<#2 (id: dyuwa2a)> gotnomemory said: Oh yeah. I heard about it and looked it up. His was the first result and then I fell down the rabbit hole with his videos and I'm now supercleaning my engine bay and I was going to do my entire exterior before I realized I need to do something with the entire paint job. :/
+
+----------------------------------------------------------------------------------------------------
+Conversation between Tinkers_toenail and Tkdoom (length 5):
+<#0 (id: dyulf5a)> Tinkers_toenail said: I can fix the old ones. 1000, 1500 and 2000 sandpaper, a buffer are some compound and a little time. Works a fuckin treat! 
+|<#1 (id: dyumr1b)> Tkdoom said: That only lasts about a year or two though. =(
+
+||<#2 (id: dyumsbv)> Tinkers_toenail said: It’s the same as new when you’re finished, wax it up and polish and it’s good for as long as you look after it.
+|||<#3 (id: dyumudm)> Tkdoom said: Well...I did nothing to my OEMs, lastly 12 years.  Someone fixed up the 12 year old ones, and now they are fading already.  *shrug*
+
+
+||||<#4 (id: dyumydh)> Tinkers_toenail said: It’s about the finishing, the plastic is exactly the same underneath the shiny surface, it’s getting that surface as smooth as possible and adding some wax coat to seal it in is the key. 
+
+----------------------------------------------------------------------------------------------------
+Conversation between Esoteroticata and YeezyFishstix (length 3):
+<#0 (id: dyuemvy)> Esoteroticata said: Shitty dollar store toothpaste and a sponge.
+
+It usually won't get it crystal clear, but it'll get you 90%.
+|<#1 (id: dyuj20s)> YeezyFishstix said: B U L L S H I T.
+||<#2 (id: dyujvem)> Esoteroticata said: Did this to headlights of my mom's car a couple months ago.  
+¯\\\_(ツ)_/¯
+
+----------------------------------------------------------------------------------------------------
+Conversation between Brownman27 and VexingRaven (length 3):
+<#0 (id: dyujkwx)> Brownman27 said: Man you couldve come to my shop, headlights  fully restored for only $30. It'll take 2 hours though
+|<#1 (id: dyuo8y4)> VexingRaven said: Does it *really* look good as new though? I used one of those kits on my old car several times and never really got the plastic looking new. Better, certainly, but not like new.
+||<#2 (id: dyup0cd)> Brownman27 said: It's a hit or miss kinda thing 50/50 I've seen a couple look amazing like brand new, and I've seen some come out even worse if that's possible. Ultimately it's my boss who wants me to sell them, but me personally I think it's bullshit waste of time and money 
+
+----------------------------------------------------------------------------------------------------
