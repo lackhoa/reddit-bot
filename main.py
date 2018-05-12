@@ -4,7 +4,7 @@ from time import sleep
 #Create a Reddit instance
 r = bl.bot_login()
 
-s = r.submission(id = '1bs0cs')
+s = r.submission(id = '8hl6k5')
 # Load more comments
 while True:
     try:
